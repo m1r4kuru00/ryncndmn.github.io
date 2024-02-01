@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "Data Science Portfolio",
+  "description": "Personal Website",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/m1r4kuru00/ryncndmn.github.io/"
+    "url": "ryncndmn.github.io/"
   },
   "keywords": [
     "gatsby"
