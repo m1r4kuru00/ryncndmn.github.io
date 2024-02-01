@@ -164,8 +164,8 @@ const StyledProject = styled.li`
     }
   }
 `;
-
 const Projects = () => {
+  const showProjects = false;
   const data = useStaticQuery(graphql`
     query {
       projects: allMarkdownRemark(
@@ -189,6 +189,10 @@ const Projects = () => {
       }
     }
   `);
+
+  if (!showProjects) {
+    return null;
+  }
 
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);

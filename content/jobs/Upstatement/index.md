@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Information Technology Service Desk Team Lead'
+company: 'Tata Consultancy Services'
+location: 'Cupertino, CA'
+range: 'February 2021 - May 2023'
+url: 'https://www.tcs.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Led a team of 10-13 dedicated members, providing guidance, addressing questions, and offering coaching to enhance performance.
+- Managed team responsibilities, ensuring tasks were completed efficiently and meeting high-quality standards.
+- Proudly achieved consistent top rankings, often securing the rank 1 or 2 position within the organization.
+- Contributed to a positive team culture, fostering collaboration and excellence in service delivery.

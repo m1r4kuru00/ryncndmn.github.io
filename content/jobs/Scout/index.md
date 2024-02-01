@@ -1,11 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2017-12-21'
+title: 'Information Technology Service Desk Team L1 Agent'
+company: 'Tata Consultancy Services'
+location: 'Cupertino, CA'
+range: 'January - June 2019'
+url: 'https://www.tcs.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Assumed the role of ITSD L1 Agent, handling incoming calls and providing support to valued customers."

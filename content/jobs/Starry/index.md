@@ -1,12 +1,11 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2017-12-21'
+title: 'Information Technology Service Desk L2 Agent'
+company: 'Tata Consultancy Services'
+location: 'Cupertino, CA'
+range: 'July 2019 - February 2021'
+url: 'https://www.tcs.com/'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Promoted to the role of L2 ITSD Agent, taking on increased responsibilities in managing tickets assigned by L1 ITSD Agents.
+- Provided assistance as needed, ensuring efficient resolution of technical issues and maintaining high levels of customer satisfaction.
