@@ -1,6 +1,6 @@
 {
-  "homepage": "http://m1r4kuru00.github.io/ryncndmn.github.io",
-  "name": "Data Science Portfolio",
+  "homepage": "https://m1r4kuru00.github.io/ryncndmn.github.io",
+  "name": "Data-Science-Portfolio",
   "description": "Personal Website",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
@@ -23,7 +23,7 @@
     "prepare": "husky install",
     "lint-staged": "lint-staged",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d public"
   },
   "lint-staged": {
     "*.{js,css,json,md}": [

@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: `/ryncndmn.github.io`,
   siteMetadata: {
     title: 'Ryan Condiman',
     description:
