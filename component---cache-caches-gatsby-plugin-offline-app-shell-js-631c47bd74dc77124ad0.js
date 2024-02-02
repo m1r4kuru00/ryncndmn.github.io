@@ -1,0 +1,2 @@
+(self.webpackChunkData_Science_Portfolio=self.webpackChunkData_Science_Portfolio||[]).push([[306],{1930:function(e,t,n){"use strict";var u=n(5318);t.__esModule=!0,t.default=void 0;var a=u(n(5354)),o=u(n(7294)),r=function(e){function t(){return e.apply(this,arguments)||this}return(0,a.default)(t,e),t.prototype.render=function(){return o.default.createElement(o.default.Fragment,null)},t}(o.default.Component),l=r;t.default=l}}]);
+//# sourceMappingURL=component---cache-caches-gatsby-plugin-offline-app-shell-js-631c47bd74dc77124ad0.js.map
